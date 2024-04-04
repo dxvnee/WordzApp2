@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wordz</string>
+    <string name="Indonesia">Bahasa Indonesia</string>
+    <string name="English">Bahasa Inggris</string>
+    <string name="my_words">Kata-ku :</string>
+    <string name="meaning">Terjemahan:</string>
+    <string name="add_new_words">Tambah Kata Baru :</string>
+    <string name="words">Kata :</string>
+    <string name="ex_words">Cth. Table</string>
+    <string name="meaning_2">Terjemahan :</string>
+    <string name="ex_meaning">Cth. Meja</string>
+    <string name="notes">Catatan :</string>
+    <string name="ex_notes">Cth. Sebuah permukaan datar</string>
+    <string name="add_words">Tambah Kata</string>
+    <string name="save_date">Simpan Tanggal Masukan</string>
+    <string name="not_save_date">Jangan Simpan Tanggal Masukan</string>
+    <string name="correct">Benar :</string>
+    <string name="wrong">Salah :</string>
+    <string name="quiz">Kuis Wordz</string>
+    <string name="choose_answer">Pilih jawabanmu...</string>
+    <string name="input_invalid">Data tidak boleh kosong</string>
+    <string name="congratulation">Kuis Selesai!</string>
+    <string name="share">Bagikan</string>
+    <string name="minimal_5">Tambah 5 kata untuk memulai kuis!</string>
+    <string name="data_add">Kata baru berhasil ditambahkan!</string>
+    <string name="no_words">Tidak Ada Kata!</string>
+</resources>
